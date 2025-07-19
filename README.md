@@ -1,3 +1,5 @@
+Here's the updated README.md with the preview link added at the end:
+
 # Course Provider & Events Platform - Hackathon Project
 
 ## Problem Statement
@@ -103,3 +105,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+**Live Preview**: [https://web-smith-hackathon.vercel.app/](https://web-smith-hackathon.vercel.app/)
