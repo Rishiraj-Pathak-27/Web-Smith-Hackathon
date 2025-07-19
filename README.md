@@ -1,4 +1,4 @@
-Here's the updated README.md with the preview link added at the end:
+Here's the updated README.md with both the preview link and clone link added:
 
 # Course Provider & Events Platform - Hackathon Project
 
@@ -76,7 +76,10 @@ event-platform/
 
 ## Getting Started
 
-1. Clone the repository
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Rishiraj-Pathak-27/Web-Smith-Hackathon.git
+   ```
 2. Install dependencies:
    ```bash
    npm install
@@ -99,10 +102,9 @@ event-platform/
 4. Push to the branch
 5. Create a Pull Request
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-**Live Preview**: [https://web-smith-hackathon.vercel.app/](https://web-smith-hackathon.vercel.app/)
+**Live Preview**: [https://web-smith-hackathon.vercel.app/](https://web-smith-hackathon.vercel.app/)  
+**GitHub Repository**: [https://github.com/Rishiraj-Pathak-27/Web-Smith-Hackathon.git](https://github.com/Rishiraj-Pathak-27/Web-Smith-Hackathon.git)
